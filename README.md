@@ -16,4 +16,4 @@ With my development stack and local environment in place, it's crucial to organi
 Selecting the right development stack is akin to choosing the architectural style for your building. It determines how I'll construct the frontend and backend of my web application. The stack includes programming languages, frameworks, and tools that best align with your project's goals. Once chosen, it sets the tone for the entire development process. My local development environment, on the other hand, is the construction site itself. It's where I'll craft, refine, and assemble the components of my web application. Having a powerful code editor, a robust version control system, a local web server, and a database management system if needed are essential tools in this toolkit. Moreover, language-specific tools and libraries should be meticulously installed to streamline development. This environment isn't just a workspace; it's the laboratory where my ideas and code take shape.
 
 # Estimated Hour
-The entire self-learning and working time is about 6h. Here are some of my learning resources:
+The entire self-learning and working time is about 6h.
